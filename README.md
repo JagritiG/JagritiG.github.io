@@ -1,2 +1,0 @@
-# JagritiG.github.io
-Portfolio
