@@ -45,7 +45,7 @@ The objective is to discover a few most promising neighborhoods based on the cri
 - The demographical as well as property facts data about San Diego neigborhoods to rate them based on these data, and merge them with related clusters of neighborhoods.
 - The Folium library to visualize final selected locations for opening up a restaurant based on the criteria mentioned
 
-![Alt Text](/images/architectural_overview_datamidware.png)
+![Alt Text](/images/sd_map_clusters_fig7.png)
 
 # [Project 5: California Housing Price Prediction using Multivariate Regression Model: Project Overview](https://github.com/JagritiG/machine_learning/blob/main/projects/house_price_prediction_regr_v1.ipynb)
 - Predict future house price using existing California housing data.
@@ -55,3 +55,5 @@ The objective is to discover a few most promising neighborhoods based on the cri
 - Use Train/Test Split to split the data for training and testing.
 - Train our model with train data set.
 - Evaluate the model against our test dataset.
+
+![Alt Text](/images/sd_map_clusters_fig7.png)
