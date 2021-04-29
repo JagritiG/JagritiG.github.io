@@ -1,4 +1,4 @@
-# [Project 1: DataMidWare - A Data Middleware Python Library](https://github.com/JagritiG/data-middleware)
+# [Project 1: DataMidWare - A Data Middleware Python Library: Project Overview](https://github.com/JagritiG/data-middleware)
 
 **DataMidWare** is a data middleware python library which ***accelerates data preparation, analysis, and visualization*** tasks by integrating
 different technologies, software, and libraries using its APIs.
