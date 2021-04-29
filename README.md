@@ -56,4 +56,4 @@ The objective is to discover a few most promising neighborhoods based on the cri
 - Train our model with train data set.
 - Evaluate the model against our test dataset.
 
-![Alt Text](/images/sd_map_clusters_fig7.png)
+![Alt Text](/images/california_housing_prices_plotly.png)
