@@ -12,6 +12,8 @@ The **DataMidWare** performs the following tasks:
 - Provides direct visualization of csv, json data, and data stored in database
 - Exports data in different format (csv, json) from database.
 
+![Alt Text](/images/architectural_overview_datamidware.png)
+
 # [Project 2: gsheets-db-api-plus: A Python DB API 2.0 for Google Spreadsheets (0.2.0): Overview](https://github.com/JagritiG/gsheet-db-api-plus)
 This version (0.2.0) allows you to query, insert, update, and delete Google Spreadsheets using SQL and SQLAlchemy.
 The version (0.2.0) removes the limitations in [version (<= 0.1.12)](https://github.com/betodealmeida/gsheets-db-api) for insert, update, and delete operations.
@@ -42,6 +44,8 @@ The objective is to discover a few most promising neighborhoods based on the cri
 - The Folium library to visualize the neighborhoods in San Diego and their emerging clusters.
 - The demographical as well as property facts data about San Diego neigborhoods to rate them based on these data, and merge them with related clusters of neighborhoods.
 - The Folium library to visualize final selected locations for opening up a restaurant based on the criteria mentioned
+
+![Alt Text](/images/architectural_overview_datamidware.png)
 
 # [Project 5: California Housing Price Prediction using Multivariate Regression Model: Project Overview](https://github.com/JagritiG/machine_learning/blob/main/projects/house_price_prediction_regr_v1.ipynb)
 - Predict future house price using existing California housing data.
