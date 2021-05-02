@@ -12,7 +12,7 @@ The **DataMidWare** performs the following tasks:
 - Provides direct visualization of csv, json data, and data stored in database
 - Exports data in different format (csv, json) from database.
 
-![](/images/architectural_overview_datamidware.png)
+![Alt Text](/images/architectural_overview_datamidware.png)
 
 # [Project 2: gsheets-db-api-plus: A Python DB API 2.0 for Google Spreadsheets (0.2.0): Overview](https://github.com/JagritiG/gsheet-db-api-plus)
 This version (0.2.0) allows you to query, insert, update, and delete Google Spreadsheets using SQL and SQLAlchemy.
