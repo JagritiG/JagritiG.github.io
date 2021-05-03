@@ -1,4 +1,4 @@
-## [Project 1: DataMidWare - A Data Middleware Python Library:](https://github.com/JagritiG/data-middleware)
+## [Project 1: DataMidWare - A Data Middleware Python Library](https://github.com/JagritiG/data-middleware)
 
 **DataMidWare** is a data middleware python library which ***accelerates data preparation, analysis, and visualization*** tasks by integrating
 different technologies, software, and libraries using its APIs.
@@ -14,7 +14,7 @@ The **DataMidWare** performs the following tasks:
 
 ![Alt Text](/images/architectural_overview_datamidware.png)
 
-## [Project 2: gsheets-db-api-plus: A Python DB API 2.0 for Google Spreadsheets (0.2.0):](https://github.com/JagritiG/gsheet-db-api-plus)
+## [Project 2: gsheets-db-api-plus: A Python DB API for Google Spreadsheets](https://github.com/JagritiG/gsheet-db-api-plus)
 This version (0.2.0) allows you to query, insert, update, and delete Google Spreadsheets using SQL and SQLAlchemy.
 The version (0.2.0) removes the limitations in [version (<= 0.1.12)](https://github.com/betodealmeida/gsheets-db-api) for insert, update, and delete operations.
 ##### Examples using SQLAlchemy grammar: INSERT, UPDATE, DELETE:
@@ -24,10 +24,10 @@ engine.execute(table.update().where(table.c.column == value).values(column1=valu
 engine.execute(table.delete().where(table.c.column <= value))
 ```
 
-## [Project 3: WebViz: Web Visualization using Django and Plotly:](https://github.com/JagritiG/django-webviz)
+## [Project 3: WebViz: Web Visualization using Django and Plotly](https://github.com/JagritiG/django-webviz)
 This is a simple Django app for web visualization which allows users to upload csv file and visualize the data.
 
-## [Project 4: Geo-location Clustering using the k-means Algorithm using Python:](https://github.com/JagritiG/Coursera_Capstone/blob/main/notebook/capstone_project_the_battle_of_neighborhoods_report_week2.ipynb)
+## [Project 4: Geo-location Clustering using the k-means Algorithm using Python](https://github.com/JagritiG/Coursera_Capstone/blob/main/notebook/capstone_project_the_battle_of_neighborhoods_report_week2.ipynb)
 The objective is to discover a few most promising neighborhoods based on the criteria such as knowing neighborhood, place with no similar restaurants in vicinity, accessibility and visibility of the location, population base, parking, and low crime rate, and present them with statistics so that the stakeholders, the restaurant entrepreneurs, can select the precise location for opening up their new restaurant.
 #### Methodology used:
 - Python geopy library to obtain the geographical coordinates of San Diego.
@@ -40,7 +40,7 @@ The objective is to discover a few most promising neighborhoods based on the cri
 
 ![Alt Text](/images/sd_map_clusters_fig7.png)
 
-## [Project 5: California Housing Price Prediction using Multivariate Regression Model:](https://github.com/JagritiG/machine_learning/blob/main/projects/house_price_prediction_regr_v1.ipynb)
+## [Project 5: California Housing Price Prediction using Multivariate Regression Model](https://github.com/JagritiG/machine_learning/blob/main/projects/house_price_prediction_regr_v1.ipynb)
 - Predict future house price using existing California housing data.
 - Perform supervised learning to develop a powerful ML model.
 - We use Regeression model to predict the future house price.
